@@ -1,3 +1,4 @@
+//komentar nich
 package main
 
 import "fmt"
